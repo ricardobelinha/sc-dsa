@@ -1,2 +1,5 @@
-# sc-dsa2
-2nd Bachelor degree in Computer Science 3rd Year 2st Semester - Security &amp; Cryptography Project 3
+# Security & Cryptography - Project 1
+
+Implementation of the Digital Signature Standard in Java, using a Java development environment NetBeans
+
+# Created by Ricardo Belinha
